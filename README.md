@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img width="70%" height="auto" src="https://cdn.dribbble.com/users/3528077/screenshots/9072743/media/71859897f522041a420893ce7d27843b.gif" height="200px"/></a>
+  <a href="#"><img width="70%" height="auto" src="https://cdn.dribbble.com/users/187497/screenshots/2178528/media/79d62b8e01bcf7200e00cd0921008fc0.gif" height="200px"/></a>
 </p>
 
 <h1 align="center">I'm Łukasz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
