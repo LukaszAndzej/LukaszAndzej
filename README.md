@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.redd.it/wm81fwfuw0741.png" height="20px"/></a>
+<a href="#"><img width="100%" height="100px" src="https://i.redd.it/wm81fwfuw0741.png" height="100px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Łukasz</h1>
 <h3 align="center">I'm a passionate Java programing and algorithms.</h3>
