@@ -13,6 +13,8 @@
 - 👯 I’m looking to collaborate on any interesting Java projects.
 - 📫 How to reach me: **lukasz.ziobrowski2@gmail.com**
 
+<br/>
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
