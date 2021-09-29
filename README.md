@@ -12,3 +12,14 @@
 - 🌱 I’m currently learning Java, SQL, Spring and algorithms.
 - 👯 I’m looking to collaborate on any interesting Java projects.
 - 📫 How to reach me: **lukasz.ziobrowski2@gmail.com**
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://www.iso.org/standard/74528.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://linuxmint.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux-mint.png"/> </a> 
+</p>
