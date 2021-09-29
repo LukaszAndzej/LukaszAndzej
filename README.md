@@ -1,9 +1,10 @@
-### Hi there 👋
+<a href="#"><img width="100%" height="auto" src="https://i.redd.it/wm81fwfuw0741.png" height="175px"/></a>
 
-<!--
-**LukaszAndzej/LukaszAndzej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
-Here are some ideas to get you started:
+
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
